@@ -4,6 +4,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Demo](#demo)
+* [Resources](#resources)
 
 ## General info
 
@@ -24,3 +25,25 @@ Fibonacci numbers are strongly related to the golden ratio: Binet's formula expr
 ## Demo
 
 WIP
+
+## Resources
+- [Fibonacci sequence algorithm in Javascript](https://medium.com/developers-writing/fibonacci-sequence-algorithm-in-javascript-b253dc7e320e)
+- [BetterProgramming: The Fastest and Most Efficient Way to Calculate Fibonacci Series in JavaScript](https://betterprogramming.pub/fibonacci-algorithm-in-javascript-45743f3a0ff6)
+- [GeeksForGeeks: Fibonacci Series Program in JavaScript](https://www.geeksforgeeks.org/fibonacci-series-program-in-javascript/)
+- [CodingExercises: Calculate the Fibonacci sequence in JS](https://www.codingexercises.com/calculate-fibonacci-sequence-in-js)
+- [ThePolyglotDeveloper: The Fibonacci Sequence Printed With JavaScript](https://www.thepolyglotdeveloper.com/2015/01/fibonacci-sequence-printed-javascript/)
+- [How to write Fibonacci sequence in Javascript](https://akhromieiev.com/fibonacci-sequence-in-javascript/)
+- [Stackoverflow: Generating Fibonacci Sequence](https://stackoverflow.com/questions/7944239/generating-fibonacci-sequence)
+- [Stackoverflow: Fibonacci series in JavaScript](https://stackoverflow.com/questions/51111870/fibonacci-series-in-javascript)
+- [Stackoverflow: Fibonacci for large numbers in Javascript](https://stackoverflow.com/questions/57473346/fibonacci-for-large-numbers-in-javascript)
+- [TED: The magic of Fibonacci numbers | Arthur Benjamin](https://www.youtube.com/watch?v=SjSHVDfXHQ4)
+- [Numberphile: Fibonacci Mystery](https://www.youtube.com/watch?v=Nu-lW-Ifyec)
+- [Numberphile: The Golden Ratio (why it is so irrational)](https://www.youtube.com/watch?v=sj8Sg8qnjOg)
+- [Numberphile: Fibonacci Numbers hidden in the Mandelbrot Set](https://www.youtube.com/watch?v=4LQvjSf6SSw)
+- [Encoding the Fibonacci Sequence Into Music](https://www.youtube.com/watch?v=IGJeGOw8TzQ)
+- [Creating Music Using The Fibonacci Sequence](https://www.youtube.com/watch?v=7bod8x0LgJs)
+- [CodingSenpai: Algorytmy w JavaScript – ciąg Fibonacciego](https://codingsenpai.com/algorytmy-w-javascript-ciag-fibonacciego/)
+- [Czysta dedukcja: Ciąg Fibonacciego - dwie ciekawostki, o których prawdopodobnie nie wiedziałe](https://www.youtube.com/watch?v=UiyyAPg9WEM)
+- [Pasja Informatyki: Tajemniczy ciąg Fibonacciego. Złota liczba. Boska proporcja](https://www.youtube.com/watch?v=wb7kPaM8cfg)
+- [Archipelag Matematyki: Ciąg Fibonacciego](https://www.youtube.com/watch?v=chnQgMlvSs4)
+- [Tajemnica liczby 1.618034 – Najważniejsza liczba na świecie](https://www.youtube.com/watch?v=yy_E-dcfTzQ)
