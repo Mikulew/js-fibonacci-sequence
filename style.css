@@ -1,0 +1,20 @@
+:root {
+  --yangColor: #d8c21e;
+  --yinColor: #111111;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.canvas {
+  font-family: 'Share Tech Mono', monospace;
+  width: 100%;
+  height: 100vh;
+  background-color: var(--yinColor);
+  overflow: hidden;
+}
