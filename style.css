@@ -18,3 +18,10 @@
   background-color: var(--yinColor);
   overflow: hidden;
 }
+
+.number {
+  font-size: 24px;
+  color: var(--yangColor);
+  padding: 5px;
+  height: 40px;
+}
