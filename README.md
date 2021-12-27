@@ -24,7 +24,7 @@ Fibonacci numbers are strongly related to the golden ratio: Binet's formula expr
 
 ## Demo
 
-WIP
+- [see here](https://mikulew.github.io/js-fibonacci-sequence/)
 
 ## Resources
 - [Fibonacci sequence algorithm in Javascript](https://medium.com/developers-writing/fibonacci-sequence-algorithm-in-javascript-b253dc7e320e)
